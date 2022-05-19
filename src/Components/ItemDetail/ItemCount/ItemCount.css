@@ -1,0 +1,29 @@
+.counterWrapper {
+	border: 1px solid #ccc;
+	padding: 0.5em 0.5em 0.5em;
+}
+
+.counterContainer {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	border: 2px solid #ccc;
+	padding: 0.5rem;
+}
+
+.counterContainer button {
+	width: 50px;
+	font-size: 2rem;
+}
+
+.counterContainer p {
+	margin: 0;
+}
+
+.counterAdd {
+	margin: auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-top: 1rem;
+}
